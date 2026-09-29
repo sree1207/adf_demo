@@ -1,0 +1,21 @@
+{
+	"name": "adf-databeli",
+	"properties": {
+		"globalParameters": {
+			"email_recepient": {
+				"type": "string",
+				"value": "sreelekha.g121@gmail.com,sreejagun12@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f55b2dc2-1859-4ca2-9729-e40ddbaebfc0",
+		"tenantId": "e74c6643-e96b-40fc-8db3-51048f53152f"
+	}
+}
