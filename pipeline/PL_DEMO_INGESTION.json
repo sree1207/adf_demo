@@ -41,8 +41,6 @@
 			{
 				"name": "Execute_Send_email_pipeline_copy1",
 				"type": "ExecutePipeline",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "Check Source count",
